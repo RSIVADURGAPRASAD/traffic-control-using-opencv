@@ -24,3 +24,5 @@ python main.py
 ## 📈 Learning Outcomes
 - Learned computer vision basics  
 - Improved problem-solving skills  
+## Output
+Output.png
